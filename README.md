@@ -19,7 +19,7 @@
 
   <p>Fotbal hraji za <a href = "https://www.aritma.cz/"><b>ARITMU</b></a> <br> Taky mám rád kaši</p>
 
-  <p1 style="color:red;">Nemám rád koprovku</p1> 
+  <p1 >Nemám rád koprovku</p1> 
  
 <img src="https://cdn.pixabay.com/photo/2013/07/13/10/51/football-157930_1280.png" alt="Ball" width="320" height="320">
 
