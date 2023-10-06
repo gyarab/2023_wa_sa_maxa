@@ -18,4 +18,5 @@
 <br>
 
 <h1 align="center"> Jaké barvy bych si zvolil já? </h1>
-> 
+> prave tyyto vlastnosti ucitite pri dotyku vasich chutovixh bunek s nasimim healin sweets
+leci bolset hlaavy , krku a onemocneni COVID-19
