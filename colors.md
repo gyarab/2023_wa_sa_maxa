@@ -13,3 +13,9 @@
 <br>
 
 ![TipSport Logo](https://www.nelisa.com/image/7c4c2cbc1c48c3dc7483523e47011277.png/cropped)
+<br>
+<br>
+<br>
+
+<h1 align="center"> Jaké barvy bych si zvolil já? </h1>
+> 
