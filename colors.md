@@ -18,5 +18,11 @@
 <br>
 
 <h1 align="center"> Jaké barvy bych si zvolil já? </h1>
-> prave tyyto vlastnosti ucitite pri dotyku vasich chutovixh bunek s nasimim healin sweets
-leci bolset hlaavy , krku a onemocneni COVID-19
+
+> ## Růžová ##
+> - Růžová je barvou křehkosti, lehkosti, a vášně. Přesně tyto vlastnosti ucítíte pči doteku Vašich chuťových buněk s našimi Healing Sweets.
+> ## Zelená ##
+> - Zelená barva působí uklidňujícím dojemem. Lidé ji maji spojenou s léčivými schopnosti. Naše Healing Sweets léčí bolset hlavy, krku a onemocnění COVID-19. A právě proto jsme zvolili zelenou barvu.
+
+![TipSport Logo](https://placehold.co/400x300/E983D8/5DF15D)
+
